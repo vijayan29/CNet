@@ -1,0 +1,12 @@
+/* Modern Dark Forensic Grid Surface Overrides */
+:root {
+    --cc-ink: #f8fafc;
+    --cc-surface: #0e172a;
+    --cc-violet: #8b5cf6;
+    --cc-aqua: #06b6d4;
+}
+
+body {
+    background-color: #070c18 !important;
+    color: #f8fafc !important;
+}
